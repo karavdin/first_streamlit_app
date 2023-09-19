@@ -1,4 +1,3 @@
-# path to the app: https://firstappapp-zzqmrumxxgjfuizbdw8x4x.streamlit.app/
 import streamlit
 import pandas
 
