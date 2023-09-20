@@ -1,6 +1,6 @@
 import streamlit
 import pandas
-
+import snwoflake.connector
 
 
 streamlit.title("My Mom's New Healthy Diner!")
